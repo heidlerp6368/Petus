@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# Petus
-=======
-# Petus
->>>>>>> parent of f29eb2f... Delete README.md
+# KAT-example
+I just deleted all the code and retyped it because I'm confused
